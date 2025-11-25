@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/LondheShubham153/retail-store-sample-app)](Stars)
-![GitHub License](https://img.shields.io/github/license/LondheShubham153/retail-store-sample-app?color=green)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%LondheShubham153%2Fretail-store-sample-app%2Frefs%2Fheads%2Fmain%2F.release-please-manifest.json&query=%24%5B%22.%22%5D&label=release)
+[![Stars](https://img.shields.io/github/stars/ShubhamNisal/retail-store-sample-app)](Stars)
+![GitHub License](https://img.shields.io/github/license/ShubhamNisal/retail-store-sample-app?color=green)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%ShubhamNisal%2Fretail-store-sample-app%2Frefs%2Fheads%2Fmain%2F.release-please-manifest.json&query=%24%5B%22.%22%5D&label=release)
 
 <strong>
 <h2>AWS Containers Retail Sample - GitOps Edition</h2>
@@ -88,7 +88,7 @@ graph LR
 
 1. **Install Prerequisites**: AWS CLI, Terraform, kubectl, Docker, Helm
 2. **Configure AWS**: `aws configure` with appropriate credentials
-3. **Clone Repository**: `git clone https://github.com/LondheShubham153/retail-store-sample-app.git`
+3. **Clone Repository**: `git clone https://github.com/ShubhamNisal/retail-store-sample-app.git`
 4. **Deploy Infrastructure**: Run Terraform in two phases (see [Getting Started](#getting-started))
 5. **Access Application**: Get load balancer URL and browse the retail store
 
@@ -155,7 +155,7 @@ helm version
 ### **Step 1: Clone Repository**
 
 ```bash
-git clone https://github.com/LondheShubham153/retail-store-sample-app.git
+git clone https://github.com/ShubhamNisal/retail-store-sample-app.git
 cd retail-store-sample-app
 git checkout gitops
 ```
@@ -465,8 +465,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICE
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/LondheShubham153/retail-store-sample-app/issues)
-- **Discord**: [TrainWithShubhamCommunity](https://discord.gg/kGEr9mR5gT)
+- **Issues**: [GitHub Issues](https://github.com/ShubhamNisal/retail-store-sample-app/issues)
 
 ---
 
