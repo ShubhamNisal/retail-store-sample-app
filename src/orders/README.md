@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - Orders Service
 
-<!-- Test commit -->
+This service is part of the AWS Containers Retail Sample.
 
 | Language | Persistence |
 | -------- | ----------- |

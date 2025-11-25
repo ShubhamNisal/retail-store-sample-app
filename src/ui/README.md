@@ -2,7 +2,7 @@
 
 <!-- GitOps Test: Testing deploy-simple.yml workflow -->
 
-<!-- Test commit -->
+This directory contains the source code for the UI service of the AWS Containers Retail Sample.
 
 | Language | Persistence |
 | -------- | ----------- |

@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - Cart Service
 
-<!-- Test commit -->
+This repository contains the source code for the Cart Service.
 
 | Language | Persistence     |
 | -------- | --------------- |

@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - Catalog Service
 
-<!-- Test commit -->
+This repository contains the source code for the Catalog Service.
 
 | Language | Persistence |
 | -------- | ----------- |

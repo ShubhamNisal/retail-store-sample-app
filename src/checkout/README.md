@@ -1,5 +1,6 @@
 # AWS Containers Retail Sample - Checkout Service
-<!-- Test commit -->
+
+This repository contains the source code for the checkout service of the AWS Containers Retail Sample.
 
 | Language | Persistence |
 | -------- | ----------- |
