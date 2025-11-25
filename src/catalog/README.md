@@ -6,7 +6,7 @@ This repository contains the source code for the Catalog Service.
 | -------- | ----------- |
 | Go       | MySQL       |
 
-This service provides an API for retrieving product catalog information. Data is stored in a MySQL database.
+This service provides an API for retrieving product catalog information. Data is stored in a MySQL database..
 
 ## Configuration
 

@@ -6,7 +6,7 @@ This repository contains the source code for the checkout service of the AWS Con
 | -------- | ----------- |
 | Node     | Redis       |
 
-This service provides an API for storing customer data during the checkout process. Data is stored in Redis.
+This service provides an API for storing customer data during the checkout process. Data is stored in Redis..
 
 ## Configuration
 

@@ -6,7 +6,7 @@ This repository contains the source code for the Cart Service.
 | -------- | --------------- |
 | Java     | Amazon DynamoDB |
 
-This service provides an API for storing customer shopping carts. Data is stored in Amazon DynamoDB.
+This service provides an API for storing customer shopping carts. Data is stored in Amazon DynamoDB..
 
 ## Configuration
 

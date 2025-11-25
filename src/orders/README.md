@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - Orders Service
 
-This service is part of the AWS Containers Retail Sample.
+This service is part of the AWS Containers Retail Sample..
 
 | Language | Persistence |
 | -------- | ----------- |
